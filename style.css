@@ -76,3 +76,13 @@ footer{
 }
 
 
+@media screen and (max-width: 808px){
+ 
+    canvas{
+        width: 90%;
+    }
+
+    .toolbox{
+        width: 90%;
+    }
+}
